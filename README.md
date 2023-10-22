@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Sunny George Vaikathuparampan
+
+🚀 Master's Student in Autonomy Technologies at FAU 🎓 | Bachelor in Electronics & Communication Engineering | 4 Years of IT Experience at Cognizant and Infosys 🌐 | Java 📦 | Python 🐍 | NodeJS 🚀 | React ⚛️ | JavaScript 💻 | HTML5 🌐 | TensorFlow 🧠 | Aspiring Innovator and Tech Enthusiast 🌟
 
 <!--
 **tuzup/tuzup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
