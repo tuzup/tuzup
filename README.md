@@ -10,7 +10,7 @@ Open to new opportunities, connections, and collaborations. Passionate about aut
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuzup/](https://github.com/tuzup/)
 
-- 📫 How to reach me **sunny.george@live.com**
+- 📫 How to reach me **sunnygvaikathuparampan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
