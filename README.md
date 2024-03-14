@@ -6,7 +6,7 @@ Open to new opportunities, connections, and collaborations. Passionate about aut
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuzup&label=Profile%20views&color=0e75b6&style=flat" alt="tuzup" /> </p>
 
 
-- 🔭 I’m currently working on [MERN Stack project](https://github.com/tuzup/SplitApp)
+- 🔭 I’m currently working on [MERN Stack project](https://github.com/tuzup/InvoiceGenius)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuzup/](https://github.com/tuzup/)
 
