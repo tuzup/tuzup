@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny George Vaikathuparampan</h1>
-<p>Master's Student in Autonomy Technologies at FAU 🎓 | Bachelor in Electronics & Communication Engineering | 4 Years of IT Experience at Cognizant and Infosys 🌐 | Java 📦 | Python 🐍 | NodeJS 🚀 | React ⚛️ | JavaScript 💻 | HTML5 🌐 | TensorFlow 🧠 | Aspiring Innovator and Tech Enthusiast 🌟 
+<p>Master's Student in Autonomy Technologies at FAU | Bachelor in Electronics & Communication Engineering | 4 Years of IT Experience at Cognizant and Infosys |Java|Python|NodeJS|React| JavaScript| HTML5|TensorFlow| Aspiring Innovator and Tech Enthusiast 🌟 
   
 Open to new opportunities, connections, and collaborations. Passionate about autonomous systems, machine learning, and pushing the boundaries of technology. Let's connect and explore the world of innovation together! 🌍💡</p>
 
